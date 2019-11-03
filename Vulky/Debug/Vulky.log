@@ -1,0 +1,9 @@
+﻿  App.cpp
+  Camera.cpp
+C:\Users\Drachi\Downloads\Renderers\Vulky\Vulky\App.cpp(1580,1): error C1010:  Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "stdafx.h"" einzufügen?
+  Main.cpp
+C:\Users\Drachi\Downloads\Renderers\Vulky\Vulky\Camera.cpp(109,1): error C1010:  Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "stdafx.h"" einzufügen?
+  VulkanHelper.cpp
+C:\Users\Drachi\Downloads\Renderers\Vulky\Vulky\Main.cpp(26,1): error C1010:  Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "stdafx.h"" einzufügen?
+  Code wird generiert...
+C:\Users\Drachi\Downloads\Renderers\Vulky\Vulky\VulkanHelper.cpp(691,1): error C1010:  Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "stdafx.h"" einzufügen?
