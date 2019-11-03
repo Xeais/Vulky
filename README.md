@@ -9,6 +9,6 @@
 - Escape key = Exit the application.
 ## Requirements
 - Windows 10 (Version 1903) – only tested with that version
-- Installed Vulkan SDK
+- Installed [Vulkan SDK](https://www.lunarg.com/vulkan-sdk)
 - All dependencies are already included.
 - No include pathes / other pathes have to be adjusted because macros are used there.
